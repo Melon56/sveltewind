@@ -1,5 +1,5 @@
 # Svelte + TS + Vite + Tailwindcss
-note: this requires pnpm and npx to already be installed
+note: this requires pnpm and npx to already be installed<br>
 Instructions for all fun:
 - Get the files ```npx degit Melon56/sveltewind <project name>```
 - ```cd``` to the folder and run ```pnpm i```
