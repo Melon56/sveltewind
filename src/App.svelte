@@ -1,8 +1,8 @@
 <script lang="ts">
- import Counter from './components/Counter.svelte';
- import svelteLogo from "./resources/svelte.svg";
- import viteLogo from "./resources/vite.svg";
- import tailwindLogo from "./resources/tailwind.svg";
+import Counter from './components/Counter.svelte';
+import svelteLogo from "./resources/svelte.svg";
+import viteLogo from "./resources/vite.svg";
+import tailwindLogo from "./resources/tailwind.svg";
 </script>
 
 <div class="text-center">
