@@ -18,9 +18,9 @@
    <img class="transition-all h-40 hover:drop-shadow-[0_0_2em_#38bdf8]" src={tailwindLogo} alt="Tailwind Logo" />
   </a>
  </div>
- <h1 class="text-white text-2xl">Vite + Svelte + Tailwind</h1>
+ <h1 class="text-2xl">Vite + Svelte + Tailwind</h1>
  <Counter />
- <p class="text-white">Check out <a class="text-blue-600 underline" href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!</p>
- <p class="text-white">Click on the Logos to learn more.</p>
- <p class="text-white">This took a long time to replicate in tailwind.</p>
+ <p class="text-slate-500">Check out <a class="text-blue-600 underline" href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!</p>
+ <p class="text-slate-500">Click on the Logos to learn more.</p>
+ <p class="text-slate-700 italic">This took a long time to replicate in tailwind.</p>
 </div>
