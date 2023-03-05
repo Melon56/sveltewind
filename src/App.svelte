@@ -22,5 +22,4 @@ import tailwindLogo from "./resources/tailwind.svg";
  <Counter />
  <p class="text-slate-500">Check out <a class="text-blue-600 underline" href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!</p>
  <p class="text-slate-500">Click on the Logos to learn more.</p>
- <p class="text-slate-700 italic">This took a long time to replicate in tailwind.</p>
 </div>
