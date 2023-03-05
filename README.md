@@ -1,7 +1,8 @@
 # Svelte + TS + Vite + Tailwindcss
+Note: requires yarn and npx to be installed<br>
 Instructions for all fun:
-- Get the files ```npx degit Melon56/sveltewind <project name>```
-- ```cd``` to the folder and run ```yarn```(I prefer yarn because it's faster)
+- Get the files ```npx degit Melon56/sveltewind <folder>```
+- ```cd <folder>``` to the folder and run ```yarn``` to install dependencies
 - ```yarn dev``` to start the dev server
 - Have Fun!
 ## Recommended IDE Setup
